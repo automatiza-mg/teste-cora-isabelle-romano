@@ -1,4 +1,4 @@
-# Repositório Template
+# Repositório Template teste
 
 Repositório criado para simplificar a criação de novos repositórios na organização `automatiza-mg`.
 
